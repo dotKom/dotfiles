@@ -1,0 +1,65 @@
+Host opland
+    HostName opland.online.ntnu.no
+    Port 22
+    User root
+
+Host blacklabel
+    HostName blacklabel.online.ntnu.no
+    Port 22
+    User root
+
+Host fireball
+    HostName fireball.online.ntnu.no
+    Port 22
+    User root
+
+Host beefeater
+    HostName blacklabel.online.ntnu.no
+    Port 22002
+    User root
+
+Host jb
+    HostName blacklabel.online.ntnu.no
+    Port 22003
+    User root
+
+Host oban
+    HostName blacklabel.online.ntnu.no
+    Port 22004
+    User root
+
+Host chita
+    HostName blacklabel.online.ntnu.no
+    Port 22005
+    User root
+
+Host hudson
+    HostName blacklabel.online.ntnu.no
+    Port 22006
+    User root
+
+Host bombay
+    HostName blacklabel.online.ntnu.no
+    Port 22007
+    User root
+
+Host bulldog
+    HostName blacklabel.online.ntnu.no
+    Port 22008
+    User root
+
+Host bigboss
+    HostName blacklabel.online.ntnu.no
+    Port 22009
+    User root
+
+Host korski
+    HostName blacklabel.online.ntnu.no
+    Port 22011
+    User root
+
+Host chivas
+    HostName blacklabel.online.ntnu.no
+    Port 22012
+    User root
+
